@@ -1,1 +1,1 @@
-# patistore-app-react-native
+# PatikaStore App React Native
